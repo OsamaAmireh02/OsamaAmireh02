@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Osama Amireh
+- 🌱 I’m currently learning Python Developement
+- 📫 How to reach me using my email: osamamohdameerah@gmail.com
