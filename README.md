@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Osama Amireh
-- 🌱 I’m currently learning Python Developement
-- 📫 How to reach me using my email: osamamohdameerah@gmail.com
+- 👋 Hi, I’m Osama Amireh.
+- Someone who loves to code.
+- Currently learning React JS and Node JS.
+- 📫 You can reach me using my email: osamamohdameerah@gmail.com
