@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Osama Amireh.
-- Someone who loves to code.
-- Currently learning React JS and Node JS.
+- Someone who loves everything related to technology.
+- Full-Stack developer.
 - 📫 You can reach me using my email: osamamohdameerah@gmail.com
